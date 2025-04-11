@@ -1,4 +1,3 @@
-```markdown
 # Solana Smart Contract - Hello World
 
 This project demonstrates the process of setting up, developing, and deploying a simple "Hello World" smart contract on Solana using Rust. The steps cover everything from installing necessary tools, creating a Solana wallet, to writing and deploying the smart contract.
@@ -13,7 +12,7 @@ Before you start, make sure you have the following installed:
 ## Step 1: Install Solana CLI and Generate Keypair
 
 First, you need to install the Solana CLI. This allows you to interact with the Solana blockchain from the command line. After installation, generate a new keypair and configure your environment to use the Solana Devnet.
-```
+
 1. Install Solana CLI:
 ```bash
  sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
@@ -134,15 +133,11 @@ This will deploy the smart contract to the Solana blockchain and provide the Pro
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-### Explanation:
+Copyright (c) 2016-2025 Astana IT University
 
-- **Introduction**: Provides a high-level overview of what the project is and what it does.
-- **Installation Instructions**: Guides the user through the installation of Solana CLI and Rust, as well as setting up the Solana environment.
-- **Step-by-Step Process**: Includes detailed instructions with embedded images to guide the user through each step (keypair generation, local validator, smart contract creation, etc.).
-- **Code and Images**: Clear explanations of the code with visual aids (images you provided) for each step.
-- **Deployment Instructions**: Covers how to deploy the smart contract once it's built.
-- **License**: Offers the licensing information for the project.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-This structure ensures the user can easily follow along with the process while having all the necessary instructions and references available.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
