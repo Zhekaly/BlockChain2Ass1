@@ -132,7 +132,7 @@ This will deploy the smart contract to the Solana blockchain and provide the Pro
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+The MIT License (MIT)
 
 Copyright (c) 2016-2025 Astana IT University
 
